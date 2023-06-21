@@ -1,0 +1,39 @@
+{
+    "name": " الملف تجميع المليار ",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "repository": "https://github.com/perdark/per-sed",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/perdark/per-sed",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "28990289",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "f3c1fb2157c495f7384b03728a0a16d8",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن االبوت",
+            "value": "5658923059:AAH92ipIy2tQSvIWZSomR0-rwtHe_31cmUo",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "vip_22bot",
+            "required": true
+        }
+    }
+}
